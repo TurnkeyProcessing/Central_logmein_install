@@ -1,0 +1,1 @@
+msiexec.exe /i 42_MON_SRV.msi /quiet DEPLOYID=01_t3we34myfw8exjbxtgng3vcykogahvfsel9pe INSTALLMETHOD=5 FQDNDESC=0
