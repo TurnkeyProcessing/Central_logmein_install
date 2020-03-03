@@ -1,0 +1,1 @@
+msiexec.exe /i 73_DIT_SRV.msi /quiet DEPLOYID=01_bhjlumy40byz6dxoxlvvkj1j6p58g2i5yhny5 INSTALLMETHOD=5 FQDNDESC=0
