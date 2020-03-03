@@ -1,0 +1,1 @@
+msiexec.exe /i 73_DIT_CLT.msi /quiet DEPLOYID=01_y75gjz68zrbnugojtv6yce25bxze049q8n3k6 INSTALLMETHOD=5 FQDNDESC=1
