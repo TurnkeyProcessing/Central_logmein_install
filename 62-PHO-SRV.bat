@@ -1,0 +1,1 @@
+msiexec.exe /i 62_PHO_SRV.msi /quiet DEPLOYID=01_ltikwkz7yhzobteippyezy0bl62kszoj9wxhf INSTALLMETHOD=5 FQDNDESC=0
