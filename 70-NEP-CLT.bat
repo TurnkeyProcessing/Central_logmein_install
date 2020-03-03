@@ -1,0 +1,1 @@
+msiexec.exe /i 70_NEP_CLT.msi /quiet DEPLOYID=01_7n63x00pqnx2a7bpxrhts1wzs4o2topu29ead INSTALLMETHOD=5 FQDNDESC=1
