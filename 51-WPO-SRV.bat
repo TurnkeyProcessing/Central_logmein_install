@@ -1,0 +1,1 @@
+msiexec.exe /i 51_WPO_SRV.msi /quiet DEPLOYID=01_6h6sikkxgibais9qseb6voz6s0lor6knbu9g8 INSTALLMETHOD=5 FQDNDESC=0
