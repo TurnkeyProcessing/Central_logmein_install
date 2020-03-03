@@ -1,0 +1,1 @@
+msiexec.exe /i 101_DSQ_SRV.msi /quiet DEPLOYID=01_dgkmrih3eibiao3dzwsle9kzc6t0altxx3trc INSTALLMETHOD=5 FQDNDESC=0
