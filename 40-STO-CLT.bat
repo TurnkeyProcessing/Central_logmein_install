@@ -1,0 +1,1 @@
+msiexec.exe /i 40_STO_CLT.msi /quiet DEPLOYID=01_cq2sn4y16b4zjf5dw7cqgfo0tp405frqr505q INSTALLMETHOD=5 FQDNDESC=0
