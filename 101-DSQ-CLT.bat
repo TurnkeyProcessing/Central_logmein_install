@@ -1,0 +1,1 @@
+msiexec.exe /i 101_DSQ_CLT.msi /quiet DEPLOYID=01_xhw4ax3sd7mmcx73vuo108s0u9wnmukxl5iar INSTALLMETHOD=5 FQDNDESC=1
