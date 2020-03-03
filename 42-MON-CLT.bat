@@ -1,0 +1,1 @@
+msiexec.exe /i 42_MON_CLT.msi /quiet DEPLOYID=01_3v6oe10lb84k1k2peazp127cld3n87q801wq3 INSTALLMETHOD=5 FQDNDESC=1
