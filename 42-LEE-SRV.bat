@@ -1,0 +1,1 @@
+msiexec.exe /i 42_LEE_SRV.msi /quiet DEPLOYID=01_xvr9z6zc0w10m8ussx7a83v2ho6nrbzun3qr9 INSTALLMETHOD=5 FQDNDESC=0
