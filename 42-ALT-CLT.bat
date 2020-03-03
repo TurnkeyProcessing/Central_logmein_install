@@ -1,0 +1,1 @@
+msiexec.exe /i 42_ALT_CLT.msi DEPLOYID=01_ybep2wlnfakzu2y0jv63rridp7t8xnx94yaw7 INSTALLMETHOD=5 FQDNDESC=1
