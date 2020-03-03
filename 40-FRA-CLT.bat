@@ -1,0 +1,1 @@
+msiexec.exe /i 40_FRA_CLT.msi /quiet DEPLOYID=01_16odcb1u9s6unfn5r5vwz7x7j6ur1mhbuy9d6 INSTALLMETHOD=5 FQDNDESC=1
