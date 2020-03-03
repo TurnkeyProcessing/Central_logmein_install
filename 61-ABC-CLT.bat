@@ -1,0 +1,1 @@
+msiexec.exe /i 61_ABC_CLT.msi /quiet DEPLOYID=01_pgpllphsbsn9xm2vicjia2tity9usryqjozhn INSTALLMETHOD=5 FQDNDESC=1
