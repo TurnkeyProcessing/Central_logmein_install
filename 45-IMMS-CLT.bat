@@ -1,0 +1,1 @@
+msiexec.exe /i 45_IMMS_CLT.msi /quiet DEPLOYID=01_5bgyb1yymqz4wjkcuoams9owmwp692l3t35kx INSTALLMETHOD=5 FQDNDESC=1
