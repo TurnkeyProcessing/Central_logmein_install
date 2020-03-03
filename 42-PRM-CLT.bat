@@ -1,0 +1,1 @@
+msiexec.exe /i 42_PRM_CLT.msi /quiet DEPLOYID=01_qjboz9gn0tluoz7im4ssvig0ygh0x9a4bdmkt INSTALLMETHOD=5 FQDNDESC=1
