@@ -1,0 +1,1 @@
+msiexec.exe /i 40_AEP_SRV.msi /quiet DEPLOYID=01_xqznmuhxskrv1tqsusuaobjn0lqlg6rpp6lxz INSTALLMETHOD=5 FQDNDESC=0
