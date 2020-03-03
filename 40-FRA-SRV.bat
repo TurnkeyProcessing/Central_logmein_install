@@ -1,0 +1,1 @@
+msiexec.exe /i 40_FRA_SRV.msi /quiet DEPLOYID=01_rrgclmirypx0msszny56zjlhmlbj1bkp15lfr INSTALLMETHOD=5 FQDNDESC=0
